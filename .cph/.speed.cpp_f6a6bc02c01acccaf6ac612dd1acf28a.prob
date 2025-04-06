@@ -1,0 +1,1 @@
+{"name":"Local: speed","url":"c:\\usaco\\speed.cpp","tests":[{"id":1737785214981,"input":"3 3\n40 75\n50 35\n10 45\n40 76\n20 30\n40 40\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\usaco\\speed.cpp","group":"local","local":true}

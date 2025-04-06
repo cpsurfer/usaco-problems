@@ -1,0 +1,1 @@
+{"name":"Local: lostcow","url":"c:\\usaco\\lostcow.cpp","tests":[{"id":1737999509821,"input":"5\n1 3 4 5 2\n1234567 2222222 3333333 4444444 5555555","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\usaco\\lostcow.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: sleepysort","url":"c:\\usaco\\sleepysort.cpp","tests":[{"id":1743089073431,"input":"6\n1 4 5 6 3 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\usaco\\sleepysort.cpp","group":"local","local":true}

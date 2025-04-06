@@ -1,0 +1,1 @@
+{"name":"Local: cowsignal","url":"c:\\usaco\\cowsignal.cpp","tests":[{"id":1737784082586,"input":"5 4 2\nXXX.\nX..X\nXXX.\nX..X\nXXX.","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\usaco\\cowsignal.cpp","group":"local","local":true}

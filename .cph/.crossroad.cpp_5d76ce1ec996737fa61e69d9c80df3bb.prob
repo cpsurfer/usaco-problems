@@ -1,0 +1,1 @@
+{"name":"Local: crossroad","url":"c:\\usaco\\crossroad.cpp","tests":[{"id":1743248209011,"input":"5\n2 1\n8 3\n5 7\n13 6\n22 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\usaco\\crossroad.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: maxdis","url":"c:\\usaco\\maxdis.cpp","tests":[{"id":1737797835935,"input":"3\n321 -15 -525\n404 373 990\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\usaco\\maxdis.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: sortcow","url":"c:\\usaco\\sortcow.cpp","tests":[{"id":1740819274975,"input":"4\n1 4 6 9\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\usaco\\sortcow.cpp","group":"local","local":true}
