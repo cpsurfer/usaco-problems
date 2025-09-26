@@ -222,9 +222,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 💡 [Suggest improvements](https://github.com/cpsurfer/usaco-problems/issues) or new features
 - 📚 Check out [USACO Guide](https://usaco.guide/) for learning resources
 
----
 
-**Happy Competitive Programming! 🚀**
-```
-
-This README is specifically tailored for a USACO competitive programming repository, including sections for problem categories, difficulty levels, compilation guidelines, and competitive programming best practices. The structure follows competitive programming documentation standards while highlighting the algorithmic problem-solving aspects of USACO.[1][2][3][4][5][6]
